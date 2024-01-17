@@ -1,0 +1,7 @@
+{
+  "name": "versioning-poc",
+  "version": "0.0.2",
+  "dependencies": {
+    "@changesets/cli": "^2.27.1"
+  }
+}
