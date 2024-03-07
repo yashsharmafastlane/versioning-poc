@@ -1,5 +1,15 @@
 # versioning-poc
 
+## 0.1.0
+
+### Minor Changes
+
+- 1b0a34c: Proper versioning setup
+
+### Patch Changes
+
+- e7b2299: Test
+
 ## 0.0.4
 
 ### Patch Changes
