@@ -1,5 +1,11 @@
 # versioning-poc
 
+## 0.2.0
+
+### Minor Changes
+
+- 9ce8a11: hello 5
+
 ## 0.1.0
 
 ### Minor Changes
