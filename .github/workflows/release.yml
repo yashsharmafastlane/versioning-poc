@@ -21,12 +21,12 @@ jobs:
           node-version: 20
 
       - name: Install Dependencies
-        run: yarn
+        run: npm install
 
       - name: Create Release Pull Request
         uses: changesets/action@v1
         with:
           # Include this to create GitHub releases and Git tags
-          publish: yarn changeset tag
+          publish: npm changeset tag
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
