@@ -27,6 +27,6 @@ jobs:
         uses: changesets/action@v1
         with:
           # Include this to create GitHub releases and Git tags
-          publish: npm changeset tag
+          publish: npx changeset tag
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
