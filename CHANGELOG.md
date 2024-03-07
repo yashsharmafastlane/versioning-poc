@@ -1,5 +1,11 @@
 # versioning-poc
 
+## 0.0.4
+
+### Patch Changes
+
+- fdd174a: Test changeset versioning
+
 ## 0.0.3
 
 ### Patch Changes
