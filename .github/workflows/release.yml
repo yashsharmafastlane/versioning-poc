@@ -29,4 +29,4 @@ jobs:
           # Include this to create GitHub releases and Git tags
           publish: npx changeset tag
         env:
-          GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
