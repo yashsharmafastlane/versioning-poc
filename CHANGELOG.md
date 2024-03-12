@@ -1,5 +1,11 @@
 # versioning-poc
 
+## 0.2.1
+
+### Patch Changes
+
+- 79de922: update action filw
+
 ## 0.2.0
 
 ### Minor Changes
