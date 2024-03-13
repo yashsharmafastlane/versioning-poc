@@ -1,5 +1,14 @@
 # versioning-poc
 
+## 1.0.0
+
+### Major Changes
+
+- cea5e88: Sprint March 1st week
+
+  - Download Receipt
+  - Login Page Updated to new UI
+
 ## 0.2.1
 
 ### Patch Changes
