@@ -1,5 +1,16 @@
 # versioning-poc
 
+## 1.0.1
+
+### Patch Changes
+
+- b73a224: Update feature 1
+
+  - Versioning
+  - Authentication flow updated
+
+- fb95827: update permission in workflow file
+
 ## 1.0.0
 
 ### Major Changes
